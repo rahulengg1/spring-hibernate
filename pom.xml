@@ -20,6 +20,7 @@
     </properties>
     <modules>
         <module>basicOperation</module>
+        <module>inheritance</module>
     </modules>
     <dependencies>
         <dependency>

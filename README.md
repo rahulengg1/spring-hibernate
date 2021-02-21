@@ -12,8 +12,8 @@ The application provides information regarding how to use Hibernate in combinati
 All the Hibernate operations examples are under test classes for each module.
 
 General Database Operations used in application
-1. Basic Operations (CRUD, Sorting, Pagination, JPQL Query, NamedQuery and NativeQuery)
-2. Inheritance
+1. [Basic Operations (CRUD, Sorting, Pagination, JPQL Query, NamedQuery and NativeQuery)](https://github.com/rahulengg1/spring-hibernate/blob/main/basicOperation/README.md)
+2. [Inheritance](https://github.com/rahulengg1/spring-hibernate/blob/main/inheritance/README.md)
 3. ComponentMapping
 4. Association
 5. Transaction
