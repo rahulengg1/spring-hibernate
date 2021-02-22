@@ -21,6 +21,7 @@
     <modules>
         <module>basicOperation</module>
         <module>inheritance</module>
+        <module>componentMapping</module>
     </modules>
     <dependencies>
         <dependency>

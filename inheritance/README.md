@@ -45,24 +45,24 @@ CREATE TABLE `walking_customer` (
 
 
 ```
-CREATE TABLE `user` (
-`id` int(11) NOT NULL,
-`discount` bigint(20) NOT NULL,
-PRIMARY KEY (`id`)
+CREATE TABLE user (
+id int(11) NOT NULL,
+discount bigint(20) NOT NULL,
+PRIMARY KEY (id)
 );
 
-CREATE TABLE `agent` (
-`name` varchar(255) DEFAULT NULL,
-`id` int(11) NOT NULL,
-PRIMARY KEY (`id`),
-CONSTRAINT `FK_USER_AGENT_ID` FOREIGN KEY (`id`) REFERENCES `user` (`id`)
+CREATE TABLE agent (
+name varchar(255) DEFAULT NULL,
+id int(11) NOT NULL,
+PRIMARY KEY (id),
+CONSTRAINT FK_USER_AGENT_ID FOREIGN KEY (id) REFERENCES user (id)
 );
 
-CREATE TABLE `employees` (
-`name` varchar(255) DEFAULT NULL,
-`id` int(11) NOT NULL,
-PRIMARY KEY (`id`),
-CONSTRAINT `FK_USER_EMPLOYEE_ID` FOREIGN KEY (`id`) REFERENCES `user` (`id`)
+CREATE TABLE employees (
+name varchar(255) DEFAULT NULL,
+id int(11) NOT NULL,
+PRIMARY KEY (id),
+CONSTRAINT FK_USER_EMPLOYEE_ID FOREIGN KEY (id) REFERENCES user (id)
 );
 ```
 
