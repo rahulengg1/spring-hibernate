@@ -1,4 +1,4 @@
-#Component Mapping
+# Component Mapping
 
 When there is has a relationship within the table, component mapping can be used
 
