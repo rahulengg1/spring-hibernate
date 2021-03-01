@@ -23,6 +23,7 @@
         <module>inheritance</module>
         <module>componentMapping</module>
         <module>association</module>
+        <module>transaction</module>
     </modules>
     <dependencies>
         <dependency>
