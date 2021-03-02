@@ -16,8 +16,8 @@ General Database Operations used in application
 2. [Inheritance](https://github.com/rahulengg1/spring-hibernate/blob/main/inheritance/README.md)
 3. [ComponentMapping](https://github.com/rahulengg1/spring-hibernate/blob/main/componentMapping/README.md)
 4. [Association](https://github.com/rahulengg1/spring-hibernate/blob/main/association/README.md)
-5. Transaction
-6. FileOperationBLOB
+5. [Transaction](https://github.com/rahulengg1/spring-hibernate/blob/main/transaction/README.md)
+6. [FileOperationBLOB](https://github.com/rahulengg1/spring-hibernate/blob/main/fileOperationBLOB/README.md)
 7. CompositePrimaryKeys
 8. MongoDb
 9. caching

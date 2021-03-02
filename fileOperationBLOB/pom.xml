@@ -10,6 +10,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>basicOperation</artifactId>
+    <artifactId>fileOperationBLOB</artifactId>
     <packaging>jar</packaging>
 </project>
