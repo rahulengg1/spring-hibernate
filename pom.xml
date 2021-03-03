@@ -25,6 +25,7 @@
         <module>association</module>
         <module>transaction</module>
         <module>fileOperationBLOB</module>
+        <module>compositePrimaryKeys</module>
     </modules>
     <dependencies>
         <dependency>

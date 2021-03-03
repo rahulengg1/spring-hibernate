@@ -1,13 +1,13 @@
-package com.rahul.file.operation;
+package com.rahul.composite;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class fileOperationBLOBApplication {
+public class CompositePrimaryKeysApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(fileOperationBLOBApplication.class, args);
+        SpringApplication.run(CompositePrimaryKeysApplication.class, args);
     }
 
 }

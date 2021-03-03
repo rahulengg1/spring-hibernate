@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: springHibernate
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
     url: "jdbc:mysql://localhost:3306/db?autoreconnect=true"
