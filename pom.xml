@@ -26,6 +26,7 @@
         <module>transaction</module>
         <module>fileOperationBLOB</module>
         <module>compositePrimaryKeys</module>
+        <module>caching</module>
     </modules>
     <dependencies>
         <dependency>

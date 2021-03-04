@@ -1,0 +1,14 @@
+target/
+/.idea
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+/.gradle
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/.mvn
+
+
