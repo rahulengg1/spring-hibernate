@@ -12,15 +12,15 @@ The application provides information regarding how to use Hibernate in combinati
 All the Hibernate operations examples are under test classes for each module.
 
 General Database Operations used in application
-1. [Basic Operations (CRUD, Sorting, Pagination, JPQL Query, NamedQuery and NativeQuery)](https://github.com/rahulengg1/spring-hibernate/blob/main/basicOperation/README.md)
-2. [Inheritance](https://github.com/rahulengg1/spring-hibernate/blob/main/inheritance/README.md)
-3. [ComponentMapping](https://github.com/rahulengg1/spring-hibernate/blob/main/componentMapping/README.md)
-4. [Association](https://github.com/rahulengg1/spring-hibernate/blob/main/association/README.md)
-5. [Transaction](https://github.com/rahulengg1/spring-hibernate/blob/main/transaction/README.md)
-6. [FileOperationBLOB](https://github.com/rahulengg1/spring-hibernate/blob/main/fileOperationBLOB/README.md)
-7. [CompositePrimaryKeys](https://github.com/rahulengg1/spring-hibernate/blob/main/compositePrimaryKeys/README.md)
-8. [MongoDb]()
-9. [caching]()
+1. [Basic Operations (CRUD, Sorting, Pagination, JPQL Query, NamedQuery and NativeQuery)](https://github.com/rahulengg1/spring-hibernate/tree/main/basicOperation)
+2. [Inheritance](https://github.com/rahulengg1/spring-hibernate/tree/main/inheritance)
+3. [ComponentMapping](https://github.com/rahulengg1/spring-hibernate/tree/main/componentMapping)
+4. [Association](https://github.com/rahulengg1/spring-hibernate/tree/main/association)
+5. [Transaction](https://github.com/rahulengg1/spring-hibernate/tree/main/transaction)
+6. [FileOperationBLOB](https://github.com/rahulengg1/spring-hibernate/tree/main/fileOperationBLOB)
+7. [CompositePrimaryKeys](https://github.com/rahulengg1/spring-hibernate/tree/main/compositePrimaryKeys)
+8. [MongoDb](https://github.com/rahulengg1/spring-hibernate/tree/main/mongodb)
+9. [caching](https://github.com/rahulengg1/spring-hibernate/tree/main/caching)
 
 
 
